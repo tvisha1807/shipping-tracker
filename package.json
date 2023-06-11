@@ -1,0 +1,23 @@
+{
+  "name": "shipment-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@types/google.maps": "^3.53.2",
+    "i": "^0.3.7",
+    "npm": "^9.6.7",
+    "webpack-cli": "^5.1.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4"
+  }
+}
